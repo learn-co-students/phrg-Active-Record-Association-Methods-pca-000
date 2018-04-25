@@ -145,5 +145,4 @@ end
 
 We'll do a handful of methods like this one for the `Song`, `Artist`, and `Genre` classes. This lab is test driven, so you can follow the specs.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/Active-Record-Association-Methods' title='Active Record Association Methods'>Active Record Association Methods</a> on Learn.co and start learning to code for free.</p>
-
+<p data-visibility='hidden'>PHRG Active Record Association Methods</p>
